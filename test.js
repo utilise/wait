@@ -1,6 +1,6 @@
 var expect = require('chai').expect
   , wait = require('./')
-  , emitterify = require('emitterify')
+  , emitterify = require('utilise.emitterify')
 
 describe('wait', function() {
 
